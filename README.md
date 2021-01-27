@@ -6,7 +6,6 @@
 ![info](https://github-readme-stats.vercel.app/api?username=hmh1424638006&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
  - 🔭 - 🌱 - 👯 - 🤔 - 💬 - 📫 - 😄 - ⚡ -
- ![](https://visitor-badge.glitch.me/badge?page_id=hmh1424638006.readme)
  
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmh1424638006)
 
@@ -19,6 +18,9 @@
 [![](https://img.shields.io/badge/Honor-V30-f5010c?style=flat-square&logo=huawei&logoColor=ffffff)](https://www.apple.com/)
 ![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
 [![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/antzuhl)
+
+
+ ![](https://visitor-badge.glitch.me/badge?page_id=hmh1424638006.readme)
 
 
 
