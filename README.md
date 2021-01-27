@@ -1,6 +1,6 @@
 ### Hi there 胡明慧👋
 
-![image](https://github.com/hmh1424638006/hmh1424638006/blob/master/xiaomai.jpg)
+![image](https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=1234661682,2837839226&fm=26&gp=0.jpg)
 
  - 🔭 - 🌱 - 👯 - 🤔 - 💬 - 📫 - 😄 - ⚡ -
 
