@@ -1,5 +1,6 @@
 ### Hi there 胡明慧👋
-![image](https://github.com/hmh1424638006/hmh1424638006/blob/master/xiaomai.jpg?raw=true)
+
+![image](https://github.com/hmh1424638006/hmh1424638006/blob/master/xiaomai.jpg)
 
  - 🔭 - 🌱 - 👯 - 🤔 - 💬 - 📫 - 😄 - ⚡ -
 
