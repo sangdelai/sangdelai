@@ -1,5 +1,5 @@
 ### Hi there 胡明慧👋
-![image](https://github.com/hmh1424638006/你的图片仓库的名称/blob/master/要传入的图片的名称.png?raw=true)
+![image](https://github.com/hmh1424638006/hmh1424638006/blob/master/xiaomai.jpg?raw=true)
 
  - 🔭 - 🌱 - 👯 - 🤔 - 💬 - 📫 - 😄 - ⚡ -
 
