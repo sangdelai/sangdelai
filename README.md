@@ -1,6 +1,6 @@
-### Hi there 胡明慧👋
+### Hi there 踟蹰👋
 
-![image](https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=1234661682,2837839226&fm=26&gp=0.jpg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangdelai&layout=compact&theme=tokyonight)
 
  - 🔭 - 🌱 - 👯 - 🤔 - 💬 - 📫 - 😄 - ⚡ -
 
